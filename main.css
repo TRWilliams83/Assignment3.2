@@ -1,0 +1,57 @@
+head {
+    text-align: center;
+}
+
+body {
+    background-color: rosybrown;
+    text-emphasis-color: royalblue;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+nav {
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+foot {
+    text-align: center;
+    margin-right: 200px;
+}
+
+.meme1 {
+    margin-right: 200px;
+}
+
+p {
+    font-size: 50px;
+    font-style: bold;
+    color: goldenrod;
+}
+
+.game-button {
+    width: 200px;
+    height: 70px;
+    font-size: 20px;
+    cursor: pointer; 
+    border: black, 5px; 
+    background-color: goldenrod;
+    color: black;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.game {
+    background-color: rgb(59, 169, 59);
+    border-radius: 25%;
+    height: 400px;
+    width: 500px;
+    padding-top: 40px;
+    border: black 10px; 
+}
+
